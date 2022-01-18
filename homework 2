@@ -1,0 +1,7 @@
+s1=("Harry")
+s2=("Potter")
+print (s1, len(s1), s2, len(s2))
+print (s1[0], s2[-1])
+print (s1==s2)
+print (s1 in s2)
+print (s1 not in s2)
